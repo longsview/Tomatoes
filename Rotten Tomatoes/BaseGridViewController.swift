@@ -81,11 +81,14 @@ class BaseGridViewController: UIViewController, UICollectionViewDataSource, UICo
                 return
             }
             
-            //var responseDictionary = NSJSONSerialization.JSONObjectWithData(data, options: nil, error: nil) as! NSDictionary
-            
+#if USE_CACHED_DATA_FILES
             let path = NSBundle.mainBundle().pathForResource(self.title, ofType: "json")!
             let jsonData = NSData(contentsOfFile: path)!
             let responseDictionary: NSDictionary = NSJSONSerialization.JSONObjectWithData(jsonData, options: NSJSONReadingOptions.MutableContainers, error: nil) as! NSDictionary
+
+#else
+            var responseDictionary = NSJSONSerialization.JSONObjectWithData(data, options: nil, error: nil) as! NSDictionary
+#endif
             
             self.movies.addObjectsFromArray(responseDictionary["movies"] as! NSArray as [AnyObject])
             self.filteredMovieList = self.movies
