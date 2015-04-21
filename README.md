@@ -22,6 +22,11 @@ Completed user stories:
 
 My favorite part of this assignment was figuring out how to use one UICollectionView for both the grid and list view and appying different layouts for each view. This cuts down on multiple delegates, views, and cells.
 
+NOTE: There was an issue with the Rotten Tomatoes API near the end of the project so I added test data to the project. You can enable and disable the test data by adding or removing the -D USE_CACHED_DATA_FILES compiler flag from the build settings.
+
 Walkthrough of all user stories:
 |   
 ![alt tag](https://github.com/longsview/Tomatoes/blob/master/tomatos.gif?raw=true)  
+
+GIF created with LiceCap.  
+Project uses https://github.com/AFNetworking/AFNetworking  
