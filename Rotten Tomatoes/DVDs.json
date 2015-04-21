@@ -1,0 +1,1449 @@
+{
+    "link_template": "http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/top_rentals.json?limit={num-results}&country={country-code}",
+    "links": {
+        "alternate": "http://www.rottentomatoes.com/dvd/top_rentals",
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/top_rentals.json?limit=20&country=us"
+    },
+    "movies": [
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Katniss Everdeen"
+                                                ],
+                                 "id": "770800260",
+                                 "name": "Jennifer Lawrence"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Gale Hawthorne"
+                                                ],
+                                 "id": "770833479",
+                                 "name": "Liam Hemsworth"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Peeta Mellark"
+                                                ],
+                                 "id": "162654356",
+                                 "name": "Josh Hutcherson"
+                                 },
+                                 {
+                                 "characters": [
+                                                "President Alma Coin"
+                                                ],
+                                 "id": "162654248",
+                                 "name": "Julianne Moore"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Finnick"
+                                                ],
+                                 "id": "771073196",
+                                 "name": "Sam Claflin"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "1951265"
+               },
+               "critics_consensus": "",
+               "id": "771312088",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/the_hunger_games_mockingjay_part_1/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312088/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312088/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312088.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771312088/similar.json"
+               },
+               "mpaa_rating": "PG-13",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/o5LFh1rOsPGEtzQEDloy-4HQsjE=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/98/11189899_ori.jpg",
+               "original": "http://resizing.flixster.com/o5LFh1rOsPGEtzQEDloy-4HQsjE=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/98/11189899_ori.jpg",
+               "profile": "http://resizing.flixster.com/o5LFh1rOsPGEtzQEDloy-4HQsjE=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/98/11189899_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/o5LFh1rOsPGEtzQEDloy-4HQsjE=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/98/11189899_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 73,
+               "critics_rating": "Fresh",
+               "critics_score": 65
+               },
+               "release_dates": {
+               "dvd": "2015-03-06",
+               "theater": "2014-11-21"
+               },
+               "runtime": 125,
+               "synopsis": "The worldwide phenomenon of The Hunger Games continues to set the world on fire with The Hunger Games: Mockingjay - Part 1, which finds Katniss Everdeen (Jennifer Lawrence) in District 13 after she literally shatters the games forever. Under the leadership of President Coin (Julianne Moore) and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta (Josh Hutcherson) and a nation moved by her courage. The Hunger Games: Mockingjay - Part 1 is directed by Francis Lawrence from a screenplay by Danny Strong and Peter Craig and produced by Nina Jacobson's Color Force in tandem with producer Jon Kilik. The novel on which the film is based is the third in a trilogy written by Suzanne Collins that has over 65 million copies in print in the U.S. alone. (c) Lionsgate",
+               "title": "The Hunger Games: Mockingjay - Part 1",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Bilbo Baggins"
+                                                ],
+                                 "id": "162652296",
+                                 "name": "Martin Freeman (II)"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Gandalf"
+                                                ],
+                                 "id": "162653241",
+                                 "name": "Ian McKellen"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Thorin Oakenshield"
+                                                ],
+                                 "id": "546952855",
+                                 "name": "Richard Armitage"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Gollum"
+                                                ],
+                                 "id": "269710329",
+                                 "name": "Andy Serkis"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Bilbo Baggins (old)"
+                                                ],
+                                 "id": "162653927",
+                                 "name": "Ian Holm"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2310332"
+               },
+               "critics_consensus": "",
+               "id": "771181360",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/the_hobbit_the_battle_of_the_five_armies/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771181360/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771181360/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771181360.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771181360/similar.json"
+               },
+               "mpaa_rating": "PG-13",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/DzsVu4vbUJL6eO4BZiUoHmAyEWA=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/97/11179703_ori.jpg",
+               "original": "http://resizing.flixster.com/DzsVu4vbUJL6eO4BZiUoHmAyEWA=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/97/11179703_ori.jpg",
+               "profile": "http://resizing.flixster.com/DzsVu4vbUJL6eO4BZiUoHmAyEWA=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/97/11179703_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/DzsVu4vbUJL6eO4BZiUoHmAyEWA=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/97/11179703_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 76,
+               "critics_rating": "Fresh",
+               "critics_score": 61
+               },
+               "release_dates": {
+               "dvd": "2015-03-24",
+               "theater": "2014-12-17"
+               },
+               "runtime": 144,
+               "synopsis": "From Academy Award (R)-winning filmmaker Peter Jackson comes \"The Hobbit: The Battle of the Five Armies,\" the third in a trilogy of films adapting the enduringly popular masterpiece The Hobbit, by J.R.R. Tolkien. \"The Hobbit: The Battle of the Five Armies\" brings to an epic conclusion the adventures of Bilbo Baggins, Thorin Oakenshield and the Company of Dwarves. Having reclaimed their homeland from the Dragon Smaug, the Company has unwittingly unleashed a deadly force into the world. Enraged, Smaug rains his fiery wrath down upon the defenseless men, women and children of Lake-town. Obsessed above all else with his reclaimed treasure, Thorin sacrifices friendship and honor tohoard it as Bilbo's frantic attempts to make him see reason drive the Hobbit towards a desperate and dangerous choice. But there are even greater dangers ahead. Unseen by any but the Wizard Gandalf, the great enemy Sauron has sent forth legions of Orcs in a stealth attack upon the Lonely Mountain. As darkness converges on their escalating conflict, the races of Dwarves, Elves and Men must decide - unite or be destroyed. Bilbo finds himself fighting for his life and the lives of his friends in the epic Battle of the Five Armies, as the future of Middle-earth hangs in the balance. (c) Warner Bros",
+               "title": "The Hobbit: The Battle of the Five Armies",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Cooper"
+                                                ],
+                                 "id": "162652350",
+                                 "name": "Matthew McConaughey"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Brand"
+                                                ],
+                                 "id": "162656190",
+                                 "name": "Anne Hathaway"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Murph"
+                                                ],
+                                 "id": "770760183",
+                                 "name": "Jessica Chastain"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Prof. Brand"
+                                                ],
+                                 "id": "162652646",
+                                 "name": "Michael Caine"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Tom"
+                                                ],
+                                 "id": "162706324",
+                                 "name": "Casey Affleck"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "0816692"
+               },
+               "critics_consensus": "",
+               "id": "771351912",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/interstellar_2014/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351912/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351912/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351912.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771351912/similar.json"
+               },
+               "mpaa_rating": "PG-13",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/UMJz_LQjD7HTEtKv3nE9pzMx4vQ=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/08/11190860_ori.jpg",
+               "original": "http://resizing.flixster.com/UMJz_LQjD7HTEtKv3nE9pzMx4vQ=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/08/11190860_ori.jpg",
+               "profile": "http://resizing.flixster.com/UMJz_LQjD7HTEtKv3nE9pzMx4vQ=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/08/11190860_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/UMJz_LQjD7HTEtKv3nE9pzMx4vQ=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/08/11190860_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 86,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 72
+               },
+               "release_dates": {
+               "dvd": "2015-03-31",
+               "theater": "2014-11-07"
+               },
+               "runtime": 169,
+               "synopsis": "With our time on Earth coming to an end, a team of explorers undertakes the most important mission in human history; traveling beyond this galaxy to discover whether mankind has a future among the stars. (C) Paramount",
+               "title": "Interstellar",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Larry Daley"
+                                                ],
+                                 "id": "162659371",
+                                 "name": "Ben Stiller"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Teddy Roosevelt"
+                                                ],
+                                 "id": "162652387",
+                                 "name": "Robin Williams"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Jedediah"
+                                                ],
+                                 "id": "162652836",
+                                 "name": "Owen Wilson"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Octavius"
+                                                ],
+                                 "id": "162671833",
+                                 "name": "Steve Coogan"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Dr. McPhee"
+                                                ],
+                                 "id": "378620549",
+                                 "name": "Ricky Gervais"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2692250"
+               },
+               "critics_consensus": "",
+               "id": "771349839",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/night_at_the_museum_secret_of_the_tomb/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771349839/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771349839/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771349839.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771349839/similar.json"
+               },
+               "mpaa_rating": "PG",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/ucEtjYQkOr9sIxRVxat3a7AzQjc=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/13/11181399_ori.jpg",
+               "original": "http://resizing.flixster.com/ucEtjYQkOr9sIxRVxat3a7AzQjc=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/13/11181399_ori.jpg",
+               "profile": "http://resizing.flixster.com/ucEtjYQkOr9sIxRVxat3a7AzQjc=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/13/11181399_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/ucEtjYQkOr9sIxRVxat3a7AzQjc=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/13/11181399_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 60,
+               "critics_rating": "Rotten",
+               "critics_score": 50
+               },
+               "release_dates": {
+               "dvd": "2015-03-10",
+               "theater": "2014-12-19"
+               },
+               "runtime": 90,
+               "synopsis": "Get ready for the wildest and most adventure-filled Night At the Museum ever as Larry (Ben Stiller) spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever. (c) Fox",
+               "title": "Night at the Museum: Secret of the Tomb",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Hiro Hamada"
+                                                ],
+                                 "id": "771360315",
+                                 "name": "Ryan Potter"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Baymax"
+                                                ],
+                                 "id": "406975480",
+                                 "name": "Scott Adsit"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Fred"
+                                                ],
+                                 "id": "770690115",
+                                 "name": "T.J. Miller"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Go Go Tomago"
+                                                ],
+                                 "id": "770694653",
+                                 "name": "Jamie Chung"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Wasabi"
+                                                ],
+                                 "id": "770822247",
+                                 "name": "Damon Wayans Jr."
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2245084"
+               },
+               "critics_consensus": "",
+               "id": "771355766",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/big_hero_6/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355766/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355766/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355766.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355766/similar.json"
+               },
+               "mpaa_rating": "PG",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/1bv1xCR9ABYGW842ZPPyF9PRPhg=/54x77/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/85/11178581_ori.jpg",
+               "original": "http://resizing.flixster.com/1bv1xCR9ABYGW842ZPPyF9PRPhg=/54x77/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/85/11178581_ori.jpg",
+               "profile": "http://resizing.flixster.com/1bv1xCR9ABYGW842ZPPyF9PRPhg=/54x77/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/85/11178581_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/1bv1xCR9ABYGW842ZPPyF9PRPhg=/54x77/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/85/11178581_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 92,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 89
+               },
+               "release_dates": {
+               "dvd": "2015-02-24",
+               "theater": "2014-11-07"
+               },
+               "runtime": 93,
+               "synopsis": "With all the heart and humor audiences expect from Walt Disney Animation Studios, \"Big Hero 6\" is an action-packed comedy-adventure about robotics prodigy Hiro Hamada, who learns to harness his genius-thanks to his brilliant brother Tadashi and their like-minded friends: adrenaline junkie Go Go Tamago, neatnik Wasabi, chemistry whiz Honey Lemon and fanboy Fred. When a devastating turn of events catapults them into the midst of a dangerous plot unfolding in the streets of San Fransokyo, Hiro turns to his closest companion-a robot named Baymax-and transforms the group into a band of high-tech heroes determined to solve the mystery. (C) Disney",
+               "title": "Big Hero 6",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "The Witch"
+                                                ],
+                                 "id": "162654900",
+                                 "name": "Meryl Streep"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Baker's Wife"
+                                                ],
+                                 "id": "162685827",
+                                 "name": "Emily Blunt"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Baker"
+                                                ],
+                                 "id": "405587980",
+                                 "name": "James Corden"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Cinderella"
+                                                ],
+                                 "id": "528367112",
+                                 "name": "Anna Kendrick"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Cinderella's Prince"
+                                                ],
+                                 "id": "326393041",
+                                 "name": "Chris Pine"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2180411"
+               },
+               "critics_consensus": "",
+               "id": "771356920",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/into_the_woods_2014/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356920/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356920/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356920.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356920/similar.json"
+               },
+               "mpaa_rating": "PG",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/0ecX5ishkl0NOHQMZ56iqpegp7M=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/06/11180649_ori.jpg",
+               "original": "http://resizing.flixster.com/0ecX5ishkl0NOHQMZ56iqpegp7M=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/06/11180649_ori.jpg",
+               "profile": "http://resizing.flixster.com/0ecX5ishkl0NOHQMZ56iqpegp7M=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/06/11180649_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/0ecX5ishkl0NOHQMZ56iqpegp7M=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/06/11180649_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Spilled",
+               "audience_score": 52,
+               "critics_rating": "Fresh",
+               "critics_score": 71
+               },
+               "release_dates": {
+               "dvd": "2015-03-23",
+               "theater": "2014-12-24"
+               },
+               "runtime": 125,
+               "synopsis": "\"Into the Woods\" is a modern twist on several of the beloved Brothers Grimm fairy tales, intertwining the plots of a few choice stories and exploring the consequences of the characters' wishes and quests. This humorous and heartfelt musical follows the classic tales of Cinderella (Anna Kendrick), Little Red Riding Hood (Lilla Crawford), Jack and the Beanstalk (Daniel Huttlestone), and Rapunzel (MacKenzie Mauzy)-all tied together by an original story involving a baker and his wife (James Corden & Emily Blunt), their wish to begin a family and their interaction with the witch (Meryl Streep) who has put a curse on them. (C) Disney",
+               "title": "Into the Woods",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Alan Turing"
+                                                ],
+                                 "id": "355028249",
+                                 "name": "Benedict Cumberbatch"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Joan Clarke"
+                                                ],
+                                 "id": "162654560",
+                                 "name": "Keira Knightley"
+                                 },
+                                 {
+                                 "characters": [
+                                                "John Cairncross"
+                                                ],
+                                 "id": "599791104",
+                                 "name": "Allen Leech"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Detective Robert Nock"
+                                                ],
+                                 "id": "770723110",
+                                 "name": "Rory Kinnear"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Stewart Menzies"
+                                                ],
+                                 "id": "478055173",
+                                 "name": "Mark Strong (II)"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2084970"
+               },
+               "critics_consensus": "",
+               "id": "771372271",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/the_imitation_game/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771372271/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771372271/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771372271.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771372271/similar.json"
+               },
+               "mpaa_rating": "PG-13",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/4klIyTlsXZtEbJBcmjW9WsxDCrY=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/08/11180871_ori.jpg",
+               "original": "http://resizing.flixster.com/4klIyTlsXZtEbJBcmjW9WsxDCrY=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/08/11180871_ori.jpg",
+               "profile": "http://resizing.flixster.com/4klIyTlsXZtEbJBcmjW9WsxDCrY=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/08/11180871_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/4klIyTlsXZtEbJBcmjW9WsxDCrY=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/08/11180871_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 92,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 89
+               },
+               "release_dates": {
+               "dvd": "2015-03-31",
+               "theater": "2014-11-28"
+               },
+               "runtime": 114,
+               "synopsis": "During the winter of 1952, British authorities entered the home of mathematician, cryptanalyst and war hero Alan Turing (Benedict Cumberbatch) to investigate a reported burglary. They instead ended up arresting Turing himself on charges of 'gross indecency', an accusation that would lead to his devastating conviction for the criminal offense of homosexuality - little did officials know, they were actually incriminating the pioneer of modern-day computing. Famously leading a motley group of scholars, linguists, chess champions and intelligence officers, he was credited with cracking the so-called unbreakable codes of Germany's World War II Enigma machine. An intense and haunting portrayal of a brilliant, complicated man, THE IMITATION GAME follows a genius who under nail-biting pressure helped to shorten the war and, in turn, save thousands of lives. (c) Weinstein",
+               "title": "The Imitation Game",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Skipper"
+                                                ],
+                                 "id": "162652533",
+                                 "name": "Tom McGrath"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Kowalski"
+                                                ],
+                                 "id": "387253043",
+                                 "name": "Chris Miller"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Private"
+                                                ],
+                                 "id": "770750328",
+                                 "name": "Christopher Knights"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Dr. Octavius Brine"
+                                                ],
+                                 "id": "162655610",
+                                 "name": "John Malkovich"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Agent Classified"
+                                                ],
+                                 "id": "355028249",
+                                 "name": "Benedict Cumberbatch"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "1911658"
+               },
+               "critics_consensus": "",
+               "id": "771315645",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/penguins_of_madagascar/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771315645/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771315645/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771315645.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771315645/similar.json"
+               },
+               "mpaa_rating": "PG",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/mq2c4GNW5qN3YhGDEeVCo5T1ors=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/96/11179636_ori.jpg",
+               "original": "http://resizing.flixster.com/mq2c4GNW5qN3YhGDEeVCo5T1ors=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/96/11179636_ori.jpg",
+               "profile": "http://resizing.flixster.com/mq2c4GNW5qN3YhGDEeVCo5T1ors=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/96/11179636_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/mq2c4GNW5qN3YhGDEeVCo5T1ors=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/96/11179636_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 64,
+               "critics_rating": "Fresh",
+               "critics_score": 71
+               },
+               "release_dates": {
+               "dvd": "2015-03-17",
+               "theater": "2014-11-26"
+               },
+               "runtime": 92,
+               "synopsis": "Super spy teams aren't born...they're hatched. Discover the secrets of the greatest and most hilarious covert birds in the global espionage biz: Skipper, Kowalski, Rico and Private. These elitists of the elite are joining forces with a chic undercover organization, The North Wind. Led by handsome and husky Agent Classified (we could tell you his name, but then...you know), voiced by Benedict Cumberbatch. Together, they must stop the villainous Dr. Octavius Brine, voiced by John Malkovich, from destroying the world as we know it. (c) Fox",
+               "title": "Penguins Of Madagascar",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Riggan"
+                                                ],
+                                 "id": "162652681",
+                                 "name": "Michael Keaton"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Tabitha"
+                                                ],
+                                 "id": "162759546",
+                                 "name": "Lindsay Duncan"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Jake"
+                                                ],
+                                 "id": "162655230",
+                                 "name": "Zach Galifianakis"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Mike"
+                                                ],
+                                 "id": "162660884",
+                                 "name": "Edward Norton"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Laura"
+                                                ],
+                                 "id": "770704179",
+                                 "name": "Andrea Riseborough"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2562232"
+               },
+               "critics_consensus": "",
+               "id": "771372602",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/birdman_2014/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771372602/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771372602/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771372602.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771372602/similar.json"
+               },
+               "mpaa_rating": "R",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/zjqkB_8Yso9-F3F5AJYd7EjHPjQ=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189914_ori.jpg",
+               "original": "http://resizing.flixster.com/zjqkB_8Yso9-F3F5AJYd7EjHPjQ=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189914_ori.jpg",
+               "profile": "http://resizing.flixster.com/zjqkB_8Yso9-F3F5AJYd7EjHPjQ=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189914_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/zjqkB_8Yso9-F3F5AJYd7EjHPjQ=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189914_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 79,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 93
+               },
+               "release_dates": {
+               "dvd": "2015-02-17",
+               "theater": "2014-10-17"
+               },
+               "runtime": 119,
+               "synopsis": "BIRDMAN or The Unexpected Virtue Of Ignorance is a black comedy that tells the story of an actor (Michael Keaton) - famous for portraying an iconic superhero - as he struggles to mount a Broadway play. In the days leading up to opening night, he battles his ego and attempts to recover his family, his career, and himself. (c) Fox Searchlight",
+               "title": "Birdman",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Stephen Hawking"
+                                                ],
+                                 "id": "358068995",
+                                 "name": "Eddie Redmayne"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Jane Wilde"
+                                                ],
+                                 "id": "770696159",
+                                 "name": "Felicity Jones"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Jonathan Hellyer Jones"
+                                                ],
+                                 "id": "392799906",
+                                 "name": "Charlie Cox"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Beryl Wilde"
+                                                ],
+                                 "id": "162654016",
+                                 "name": "Emily Watson"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Dennis Sciama"
+                                                ],
+                                 "id": "162656526",
+                                 "name": "David Thewlis"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2980516"
+               },
+               "critics_consensus": "",
+               "id": "771366367",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/the_theory_of_everything_2014/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771366367/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771366367/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771366367.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771366367/similar.json"
+               },
+               "mpaa_rating": "PG-13",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/BI7HY-o4Z2ybr1db7YnbDdFWw-I=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189903_ori.jpg",
+               "original": "http://resizing.flixster.com/BI7HY-o4Z2ybr1db7YnbDdFWw-I=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189903_ori.jpg",
+               "profile": "http://resizing.flixster.com/BI7HY-o4Z2ybr1db7YnbDdFWw-I=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189903_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/BI7HY-o4Z2ybr1db7YnbDdFWw-I=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189903_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 84,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 79
+               },
+               "release_dates": {
+               "dvd": "2015-02-17",
+               "theater": "2014-11-07"
+               },
+               "runtime": 123,
+               "synopsis": "Starring Eddie Redmayne (\"Les Miserables\") and Felicity Jones (\"The Amazing Spider-Man 2\"), this is the extraordinary story of one of the world's greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde. Once a healthy, active young man, Hawking received an earth-shattering diagnosis at 21 years of age. With Jane fighting tirelessly by his side, Stephen embarks on his most ambitious scientific work, studying the very thing he now has precious little of - time. Together, they defy impossible odds, breaking new ground in medicine and science, and achieving more than they could ever have dreamed. The film is based on the memoir Travelling to Infinity: My Life with Stephen, by Jane Hawking, and is directed by Academy Award winner James Marsh (\"Man on Wire\"). (c) Focus",
+               "title": "The Theory of Everything",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Lloyd Christmas"
+                                                ],
+                                 "id": "162659418",
+                                 "name": "Jim Carrey"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Harry Dunne"
+                                                ],
+                                 "id": "162654392",
+                                 "name": "Jeff Daniels"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Travis/Captain Lippincott"
+                                                ],
+                                 "id": "770750133",
+                                 "name": "Rob Riggle"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Adele"
+                                                ],
+                                 "id": "326396647",
+                                 "name": "Laurie Holden"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Penny"
+                                                ],
+                                 "id": "770753036",
+                                 "name": "Rachel Melvin"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2096672"
+               },
+               "critics_consensus": "",
+               "id": "771359313",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/dumb_and_dumber_to/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771359313/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771359313/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771359313.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771359313/similar.json"
+               },
+               "mpaa_rating": "PG-13",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/L46fLlNaCFR91IRmvByEtYz-tko=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/98/11189811_ori.jpg",
+               "original": "http://resizing.flixster.com/L46fLlNaCFR91IRmvByEtYz-tko=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/98/11189811_ori.jpg",
+               "profile": "http://resizing.flixster.com/L46fLlNaCFR91IRmvByEtYz-tko=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/98/11189811_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/L46fLlNaCFR91IRmvByEtYz-tko=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/98/11189811_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Spilled",
+               "audience_score": 39,
+               "critics_rating": "Rotten",
+               "critics_score": 29
+               },
+               "release_dates": {
+               "dvd": "2015-02-17",
+               "theater": "2014-11-14"
+               },
+               "runtime": 109,
+               "synopsis": "Jim Carrey and Jeff Daniels reprise their signature roles as Lloyd and Harry in the sequel to the smash hit that took the physical comedy and kicked it in the nuts: Dumb and Dumber To. The original film's directors, Peter and Bobby Farrelly, take Lloyd and Harry on a road trip to find a child Harry never knew he had and the responsibility neither should ever, ever be given. The Farrelly brothers produce Dumb and Dumber To alongside Riza Aziz and Joey McFarland of Red Granite Pictures. They are joined by fellow producers Charles B. Wessler and Bradley Thomas. Universal Pictures will distribute the film in the United States, Canada and select international territories.(C) Universal",
+               "title": "Dumb and Dumber To",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Lou Bloom"
+                                                ],
+                                 "id": "162653968",
+                                 "name": "Jake Gyllenhaal"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Nina"
+                                                ],
+                                 "id": "162654462",
+                                 "name": "Rene Russo"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Joe Loder"
+                                                ],
+                                 "id": "162654226",
+                                 "name": "Bill Paxton"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Rick"
+                                                ],
+                                 "id": "326396057",
+                                 "name": "Riz Ahmed"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Security Guard"
+                                                ],
+                                 "id": "770680315",
+                                 "name": "Michael Papajohn"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2872718"
+               },
+               "critics_consensus": "",
+               "id": "771380953",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/nightcrawler/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771380953/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771380953/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771380953.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771380953/similar.json"
+               },
+               "mpaa_rating": "R",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/MiQ5Cc0DvU4eqkVpigJZA57WDu8=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/94/11189473_ori.jpg",
+               "original": "http://resizing.flixster.com/MiQ5Cc0DvU4eqkVpigJZA57WDu8=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/94/11189473_ori.jpg",
+               "profile": "http://resizing.flixster.com/MiQ5Cc0DvU4eqkVpigJZA57WDu8=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/94/11189473_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/MiQ5Cc0DvU4eqkVpigJZA57WDu8=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/94/11189473_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 86,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 95
+               },
+               "release_dates": {
+               "dvd": "2015-02-10",
+               "theater": "2014-10-31"
+               },
+               "runtime": 117,
+               "synopsis": "NIGHTCRAWLER is a pulse-pounding thriller set in the nocturnal underbelly of contemporary Los Angeles. Jake Gyllenhaal stars as Lou Bloom, a driven young man desperate for work who discovers the high-speed world of L.A. crime journalism. Finding a group of freelance camera crews who film crashes, fires, murder and other mayhem, Lou muscles into the cut-throat, dangerous realm of nightcrawling -- where each police siren wail equals a possible windfall and victims are converted into dollars and cents. Aided by Rene Russo as Nina, a veteran of the blood-sport that is local TV news, Lou thrives. In the breakneck, ceaseless search for footage, he becomes the star of his own story. (c) Open Road",
+               "title": "Nightcrawler",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Moses"
+                                                ],
+                                 "id": "162652645",
+                                 "name": "Christian Bale"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Nun"
+                                                ],
+                                 "id": "162653703",
+                                 "name": "Ben Kingsley"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Ramses"
+                                                ],
+                                 "id": "162733204",
+                                 "name": "Joel Edgerton"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Seti"
+                                                ],
+                                 "id": "162665207",
+                                 "name": "John Turturro"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Tuya"
+                                                ],
+                                 "id": "162660903",
+                                 "name": "Sigourney Weaver"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "1528100"
+               },
+               "critics_consensus": "",
+               "id": "771356224",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/exodus_gods_and_kings/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356224/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356224/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356224.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356224/similar.json"
+               },
+               "mpaa_rating": "PG-13",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/S0p-cPGRrxJvhZg9BTVWrHs7GD8=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/17/11181796_ori.jpg",
+               "original": "http://resizing.flixster.com/S0p-cPGRrxJvhZg9BTVWrHs7GD8=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/17/11181796_ori.jpg",
+               "profile": "http://resizing.flixster.com/S0p-cPGRrxJvhZg9BTVWrHs7GD8=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/17/11181796_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/S0p-cPGRrxJvhZg9BTVWrHs7GD8=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/17/11181796_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Spilled",
+               "audience_score": 37,
+               "critics_rating": "Rotten",
+               "critics_score": 28
+               },
+               "release_dates": {
+               "dvd": "2015-03-17",
+               "theater": "2014-12-12"
+               },
+               "runtime": 142,
+               "synopsis": "From acclaimed director Ridley Scott (Gladiator, Prometheus) comes the epic adventure \"Exodus: Gods and Kings,\" the story of one man's daring courage to take on the might of an empire. Using state of the art visual effects and 3D immersion, Scott brings new life to the story of the defiant leader Moses (Christian Bale) as he rises up against the Egyptian Pharaoh Ramses (Joel Edgerton), setting 600,000 slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues. (c) Fox",
+               "title": "Exodus: Gods and Kings",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Nick Hendricks"
+                                                ],
+                                 "id": "326298973",
+                                 "name": "Jason Bateman"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Kurt Buckman"
+                                                ],
+                                 "id": "770702194",
+                                 "name": "Jason Sudeikis"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Dale Arbus"
+                                                ],
+                                 "id": "770729280",
+                                 "name": "Charlie Day"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Rex Hanson"
+                                                ],
+                                 "id": "326393041",
+                                 "name": "Chris Pine"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Bert Hanson"
+                                                ],
+                                 "id": "770738334",
+                                 "name": "Christoph Waltz"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2170439"
+               },
+               "critics_consensus": "",
+               "id": "771352288",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/horrible_bosses_2/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771352288/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771352288/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771352288.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771352288/similar.json"
+               },
+               "mpaa_rating": "R",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/KLpbqycbqIVafodNCZ77U_4ON-E=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/17/11181724_ori.jpg",
+               "original": "http://resizing.flixster.com/KLpbqycbqIVafodNCZ77U_4ON-E=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/17/11181724_ori.jpg",
+               "profile": "http://resizing.flixster.com/KLpbqycbqIVafodNCZ77U_4ON-E=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/17/11181724_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/KLpbqycbqIVafodNCZ77U_4ON-E=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/17/11181724_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Spilled",
+               "audience_score": 50,
+               "critics_rating": "Rotten",
+               "critics_score": 35
+               },
+               "release_dates": {
+               "dvd": "2015-02-24",
+               "theater": "2014-11-26"
+               },
+               "runtime": 108,
+               "synopsis": "The follow-up to the 2011 hit comedy \"Horrible Bosses\" reunites Jason Bateman, Charlie Day and Jason Sudeikis as everyone's favorite working stiffs: Nick, Dale and Kurt. Jennifer Aniston (\"We're the Millers\"), and Oscar (R) winners Jamie Foxx (\"Ray\") and Kevin Spacey (\"American Beauty,\" \"The Usual Suspects\") also reprise their \"Horrible Bosses\" starring roles, while Chris Pine (\"Star Trek: Into Darkness\") and Oscar (R) winner Christoph Waltz (\"Django Unchained,\" \"Inglourious Basterds\") star as new adversaries standing between the guys and their dreams of success. (c) Warner Bros",
+               "title": "Horrible Bosses 2",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "John du Pont"
+                                                ],
+                                 "id": "162652665",
+                                 "name": "Steve Carell"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Mark Schultz"
+                                                ],
+                                 "id": "162661835",
+                                 "name": "Channing Tatum"
+                                 },
+                                 {
+                                 "characters": [
+                                                "David Schultz"
+                                                ],
+                                 "id": "162653904",
+                                 "name": "Mark Ruffalo"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Nancy Schultz"
+                                                ],
+                                 "id": "335716430",
+                                 "name": "Sienna Miller"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Jean du Pont"
+                                                ],
+                                 "id": "162656201",
+                                 "name": "Vanessa Redgrave"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "1100089"
+               },
+               "critics_consensus": "",
+               "id": "771256839",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/foxcatcher/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771256839/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771256839/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771256839.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771256839/similar.json"
+               },
+               "mpaa_rating": "R",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/xk_U1PCXcm9GdboSrA7IHJLIwa0=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/04/11190435_ori.png",
+               "original": "http://resizing.flixster.com/xk_U1PCXcm9GdboSrA7IHJLIwa0=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/04/11190435_ori.png",
+               "profile": "http://resizing.flixster.com/xk_U1PCXcm9GdboSrA7IHJLIwa0=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/04/11190435_ori.png",
+               "thumbnail": "http://resizing.flixster.com/xk_U1PCXcm9GdboSrA7IHJLIwa0=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/04/11190435_ori.png"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 68,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 88
+               },
+               "release_dates": {
+               "dvd": "2015-03-03",
+               "theater": "2014-11-14"
+               },
+               "runtime": 130,
+               "synopsis": "FOXCATCHER is a psychological drama directed by Academy Award nominee Bennett Miller (MONEYBALL) and starring Golden Globe winner Steve Carell, Channing Tatum, Academy Award nominee Mark Ruffalo, Academy Award winner Vanessa Redgrave and Sienna Miller. The film was written by E. Max Frye and Academy Award nominee Dan Futterman. FOXCATCHER tells the story of Olympic Gold Medal-winning wrestler Mark Schultz (Tatum), who sees a way out from the shadow of his more celebrated wrestling brother Dave (Ruffalo) and a life of poverty when he is summoned by eccentric multi-millionaire John du Pont (Carell) to move onto his estate and train for the 1988 Seoul Olympics. Desperate to gain the respect of his disapproving mother, du Pont begins \"coaching\" a world-class athletic team and, in the process, lures Mark into dangerous habits, breaks his confidence and drives him into a self-destructive spiral. Based on actual events, FOXCATCHER is a gripping and profoundly American story of fragile men who pinned their hopes for love and redemption on a desperate obsession for greatness that was to end in tragedy. (c) Sony Classics",
+               "title": "Foxcatcher",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Cheryl"
+                                                ],
+                                 "id": "162653903",
+                                 "name": "Reese Witherspoon"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Paul"
+                                                ],
+                                 "id": "770759213",
+                                 "name": "Thomas Sadoski"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Jonathan"
+                                                ],
+                                 "id": "682571065",
+                                 "name": "Michiel Huisman"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Frank"
+                                                ],
+                                 "id": "335719400",
+                                 "name": "W. Earl Brown"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Aimee"
+                                                ],
+                                 "id": "162709080",
+                                 "name": "Gaby Hoffmann"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2305051"
+               },
+               "critics_consensus": "",
+               "id": "771366595",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/wild_2014/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771366595/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771366595/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771366595.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771366595/similar.json"
+               },
+               "mpaa_rating": "R",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/ieHoB2aGy3v_TNp5Pxn41ksi-8o=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/91/11189150_ori.jpg",
+               "original": "http://resizing.flixster.com/ieHoB2aGy3v_TNp5Pxn41ksi-8o=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/91/11189150_ori.jpg",
+               "profile": "http://resizing.flixster.com/ieHoB2aGy3v_TNp5Pxn41ksi-8o=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/91/11189150_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/ieHoB2aGy3v_TNp5Pxn41ksi-8o=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/91/11189150_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 79,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 90
+               },
+               "release_dates": {
+               "dvd": "2015-03-31",
+               "theater": "2014-12-03"
+               },
+               "runtime": 115,
+               "synopsis": "With the dissolution of her marriage and the death of her mother, Cheryl Strayed has lost all hope. After years of reckless, destructive behavior, she makes a rash decision. With absolutely no experience, driven only by sheer determination, Cheryl hikes more than a thousand miles of the Pacific Crest Trail, alone. WILD powerfully captures the terrors and pleasures of one young woman forging ahead against all odds on a journey that maddens, strengthens, and ultimately heals her. (c) Fox Searchlight",
+               "title": "Wild",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Will Stacks"
+                                                ],
+                                 "id": "162652975",
+                                 "name": "Jamie Foxx"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Grace"
+                                                ],
+                                 "id": "162699968",
+                                 "name": "Rose Byrne"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Guy"
+                                                ],
+                                 "id": "162685850",
+                                 "name": "Bobby Cannavale"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Miss Hannigan"
+                                                ],
+                                 "id": "162654443",
+                                 "name": "Cameron Diaz"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Agbaje"
+                                                ],
+                                 "id": "405589153",
+                                 "name": "Adewale Akinnuoye-Agbaje"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "1823664"
+               },
+               "critics_consensus": "",
+               "id": "771229367",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/annie_2012/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771229367/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771229367/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771229367.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771229367/similar.json"
+               },
+               "mpaa_rating": "PG",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/FyQ_123EaN_oVV_OGgZ7XKsvtJs=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/05/11180528_ori.jpg",
+               "original": "http://resizing.flixster.com/FyQ_123EaN_oVV_OGgZ7XKsvtJs=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/05/11180528_ori.jpg",
+               "profile": "http://resizing.flixster.com/FyQ_123EaN_oVV_OGgZ7XKsvtJs=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/05/11180528_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/FyQ_123EaN_oVV_OGgZ7XKsvtJs=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/05/11180528_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 62,
+               "critics_rating": "Rotten",
+               "critics_score": 27
+               },
+               "release_dates": {
+               "dvd": "2015-03-17",
+               "theater": "2014-12-19"
+               },
+               "runtime": 118,
+               "synopsis": "A Broadway classic that has delighted audiences for generations comes to the big screen with a new, contemporary vision in Columbia Pictures' comedy, Annie. Director/Producer/Screenwriter Will Gluck teams with producers James Lassiter, Will Smith & Jada Pinkett Smith, and Shawn \"JAY Z\" Carter, Laurence \"Jay\" Brown, and Tyran \"Ty Ty\" Smith with a modern telling that captures the magic of the classic characters and original show that won seven Tony Awards. Celia Costas serves as Executive Producer. The screenplay is by Will Gluck and Aline Brosh McKenna, based on the musical stage play \"Annie,\" book by Thomas Meehan, music by Charles Strouse, lyrics by Martin Charnin, and on \"Little Orphan Annie,\" (C) and (R) Tribune Media Services, Inc. Academy Award (R) nominee Quvenzhane Wallis (Beasts of the Southern Wild) stars as Annie, a young, happy foster kid who's also tough enough to make her way on the streets of New York in 2014. Originally left by her parents as a baby with the promise that they'd be back for her someday, it's been a hard knock life ever since with her mean foster mom Miss Hannigan (Cameron Diaz). But everything's about to change when the hard-nosed tycoon and New York mayoral candidate Will Stacks (Jamie Foxx) - advised by his brilliant VP, Grace (Rose Byrne) and his shrewd and scheming campaign advisor, Guy (Bobby Cannavale) - makes a thinly-veiled campaign move and takes her in. Stacks believes he's her guardian angel, but Annie's self-assured nature and bright, sun-will-come-out-tomorrow outlook on life just might mean it's the other way around. (c) Sony",
+               "title": "Annie",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Louis Zamperini"
+                                                ],
+                                 "id": "770771828",
+                                 "name": "Jack O'Connell"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Phil"
+                                                ],
+                                 "id": "770702167",
+                                 "name": "Domhnall Gleeson"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Mac"
+                                                ],
+                                 "id": "440715119",
+                                 "name": "Finn Wittrock"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Fitzgerald"
+                                                ],
+                                 "id": "162653184",
+                                 "name": "Garrett Hedlund"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Watanabe"
+                                                ],
+                                 "id": "770873128",
+                                 "name": "Miyavi"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "1809398"
+               },
+               "critics_consensus": "",
+               "id": "771360552",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/unbroken_2014/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771360552/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771360552/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771360552.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771360552/similar.json"
+               },
+               "mpaa_rating": "PG-13",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/u-nKl9xREJbL--JEtqIU6ODbeLY=/51x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/10/11181015_ori.jpg",
+               "original": "http://resizing.flixster.com/u-nKl9xREJbL--JEtqIU6ODbeLY=/51x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/10/11181015_ori.jpg",
+               "profile": "http://resizing.flixster.com/u-nKl9xREJbL--JEtqIU6ODbeLY=/51x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/10/11181015_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/u-nKl9xREJbL--JEtqIU6ODbeLY=/51x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/10/11181015_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 71,
+               "critics_rating": "Rotten",
+               "critics_score": 51
+               },
+               "release_dates": {
+               "dvd": "2015-03-24",
+               "theater": "2014-12-25"
+               },
+               "runtime": 137,
+               "synopsis": "Academy Award (R) winner Angelina Jolie directs and produces Unbroken, an epic drama that follows the incredible life of Olympian and war hero Louis \"Louie\" Zamperini (Jack O'Connell) who, along with two other crewmen, survived in a raft for 47 days after a near-fatal plane crash in WWII-only to be caught by the Japanese Navy and sent to a prisoner-of-war camp. Director Jolie began shooting some of the most dramatic and challenging scenes on Wednesday, October 16, on location far out at sea in Moreton Bay, Australia, with Zamperini (O'Connell) and his fellow airmen-Phil (Domhnall Gleeson) and Mac (Finn Wittrock)-having impossibly survived being adrift in the open Pacific for several weeks. Working with cameras on a floating rig in choppy waters and braving the elements, with actors dieting for months to appear as depleted as their characters, Jolie completed a successful first day of a location shoot that promises to be rigorous and uniquely challenging. Adapted from Laura Hillenbrand's (\"Seabiscuit: An American Legend\") enormously popular book, Unbroken brings to the big screen Zamperini's unbelievable and inspiring true story about the resilient power of the human spirit. Starring alongside O'Connell, Gleeson and Wittrock are Garrett Hedlund and John Magaro as fellow POWs who find an unexpected camaraderie during their internment, Alex Russell as Zamperini's brother, Pete, and in his English-language feature debut, Japanese actor Miyavi as the brutal camp guard known only to the men as \"The Bird.\" The film is produced by Jolie, as well as Matthew Baer (City by the Sea), Erwin Stoff (The Day the Earth Stood Still) and Clayton Townsend (This Is 40). Leading the accomplished behind-the-scenes crew is 10-time Oscar (R)-nominated cinematographer Roger Deakins (Skyfall). Academy Award (R) winners Joel and Ethan Coen (No Country for Old Men) rewrote the screenplay from earlier drafts by William Nicholson (Les Miserables) and Richard LaGravenese (HBO's Behind the Candelabra).",
+               "title": "Unbroken",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Andrew Neyman"
+                                                ],
+                                 "id": "771077409",
+                                 "name": "Miles Teller"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Terence Fletcher"
+                                                ],
+                                 "id": "592170459",
+                                 "name": "J.K. Simmons"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Nicole"
+                                                ],
+                                 "id": "770823727",
+                                 "name": "Melissa Benoist"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Jim"
+                                                ],
+                                 "id": "162654031",
+                                 "name": "Paul Reiser"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Ryan"
+                                                ],
+                                 "id": "771373316",
+                                 "name": "Austin Stowell"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2582802"
+               },
+               "critics_consensus": "",
+               "id": "771371883",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/whiplash_2014/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771371883/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771371883/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771371883.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771371883/similar.json"
+               },
+               "mpaa_rating": "R",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/muhKVPo3_YEjdYT595yqra8Chwo=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/01/11180104_ori.jpg",
+               "original": "http://resizing.flixster.com/muhKVPo3_YEjdYT595yqra8Chwo=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/01/11180104_ori.jpg",
+               "profile": "http://resizing.flixster.com/muhKVPo3_YEjdYT595yqra8Chwo=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/01/11180104_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/muhKVPo3_YEjdYT595yqra8Chwo=/54x80/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/01/11180104_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Upright",
+               "audience_score": 95,
+               "critics_rating": "Certified Fresh",
+               "critics_score": 95
+               },
+               "release_dates": {
+               "dvd": "2015-02-24",
+               "theater": "2014-10-10"
+               },
+               "runtime": 106,
+               "synopsis": "Andrew Neyman is an ambitious young jazz drummer, single-minded in his pursuit to rise to the top of his elite east coast music conservatory. Plagued by the failed writing career of his father, Andrew hungers day and night to become one of the greats. Terence Fletcher, an instructor equally known for his teaching talents as for his terrifying methods, leads the top jazz ensemble in the school. Fletcher discovers Andrew and transfers the aspiring drummer into his band, forever changing the young man's life. Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher continues to push him to the brink of both his ability-and his sanity. (C) Sony Classics",
+               "title": "Whiplash",
+               "year": 2014
+               },
+               {
+               "abridged_cast": [
+                                 {
+                                 "characters": [
+                                                "Dave Skylark"
+                                                ],
+                                 "id": "162653202",
+                                 "name": "James Franco"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Aaron Rapaport"
+                                                ],
+                                 "id": "162653310",
+                                 "name": "Seth Rogen"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Agent Lacey"
+                                                ],
+                                 "id": "347990526",
+                                 "name": "Lizzy Caplan"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Kim Jong-un"
+                                                ],
+                                 "id": "770767249",
+                                 "name": "Randall Park"
+                                 },
+                                 {
+                                 "characters": [
+                                                "Sook"
+                                                ],
+                                 "id": "771482826",
+                                 "name": "Diana Bang"
+                                 }
+                                 ],
+               "alternate_ids": {
+               "imdb": "2788710"
+               },
+               "critics_consensus": "",
+               "id": "771353053",
+               "links": {
+               "alternate": "http://www.rottentomatoes.com/m/the_interview_2014/",
+               "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353053/cast.json",
+               "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353053/reviews.json",
+               "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353053.json",
+               "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353053/similar.json"
+               },
+               "mpaa_rating": "R",
+               "posters": {
+               "detailed": "http://resizing.flixster.com/V8dFU3ZGCCFd2Oq3LImJ_E6jGII=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189913_ori.jpg",
+               "original": "http://resizing.flixster.com/V8dFU3ZGCCFd2Oq3LImJ_E6jGII=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189913_ori.jpg",
+               "profile": "http://resizing.flixster.com/V8dFU3ZGCCFd2Oq3LImJ_E6jGII=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189913_ori.jpg",
+               "thumbnail": "http://resizing.flixster.com/V8dFU3ZGCCFd2Oq3LImJ_E6jGII=/54x81/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189913_ori.jpg"
+               },
+               "ratings": {
+               "audience_rating": "Spilled",
+               "audience_score": 50,
+               "critics_rating": "Rotten",
+               "critics_score": 53
+               },
+               "release_dates": {
+               "dvd": "2015-02-17",
+               "theater": "2014-12-25"
+               },
+               "runtime": 112,
+               "synopsis": "In the action-comedy The Interview, Dave Skylark (James Franco) and his producer Aaron Rapoport (Seth Rogen) run the popular celebrity tabloid TV show \"Skylark Tonight.\" When they discover that North Korean dictator Kim Jong-un is a fan of the show, they land an interview with him in an attempt to legitimize themselves as journalists. As Dave and Aaron prepare to travel to Pyongyang, their plans change when the CIA recruits them, perhaps the two least-qualified men imaginable, to assassinate Kim Jong-un. (c) Sony",
+               "title": "The Interview",
+               "year": 2014
+               }
+               ]
+}
